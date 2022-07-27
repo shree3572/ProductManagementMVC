@@ -10,6 +10,7 @@ public class ProductManagementMvcApplication {
 
 	public static void main(String[] args) {
 		SpringApplication.run(ProductManagementMvcApplication.class, args);
+		System.out.println("Welcome");
 	}
 
 }
